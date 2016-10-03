@@ -1,0 +1,348 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJJ3W1gMxEwokR9pk8Djq9hPk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Eic5MC05MiBDb3VydCBTdCwgQnJvb2tseW4sIE5ZIDExMjAxLCBVU0E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.692154,
+               "lng" : -73.96506359999999
+            },
+            "southwest" : {
+               "lat" : 40.628967,
+               "lng" : -74.00339839999999
+            }
+         },
+         "copyrights" : "Map data ©2016 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "5.9 mi",
+                  "value" : 9448
+               },
+               "duration" : {
+                  "text" : "22 mins",
+                  "value" : 1310
+               },
+               "end_address" : "90-92 Court St, Brooklyn, NY 11201, USA",
+               "end_location" : {
+                  "lat" : 40.6910763,
+                  "lng" : -73.9917049
+               },
+               "start_address" : "716 Westminster Rd, Brooklyn, NY 11230, USA",
+               "start_location" : {
+                  "lat" : 40.6315263,
+                  "lng" : -73.9654319
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 213
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 40.6296317,
+                        "lng" : -73.96506359999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eWestminster Rd\u003c/b\u003e toward \u003cb\u003eAvenue H\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "az~vF|jmbMzJiA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.6315263,
+                        "lng" : -73.9654319
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 515
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 109
+                     },
+                     "end_location" : {
+                        "lat" : 40.628967,
+                        "lng" : -73.97110549999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eAvenue H\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "en~vFrhmbMR~DBTR|DTvDPxDVvEVzE"
+                     },
+                     "start_location" : {
+                        "lat" : 40.6296317,
+                        "lng" : -73.96506359999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 212
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 40.6308591,
+                        "lng" : -73.9714554
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eOcean Pkwy\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eMay be closed at certain times or days\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aj~vFlnnbMaFd@wC^"
+                     },
+                     "start_location" : {
+                        "lat" : 40.628967,
+                        "lng" : -73.97110549999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "59 ft",
+                        "value" : 18
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 40.6307788,
+                        "lng" : -73.9716439
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 2nd cross street onto \u003cb\u003eParkville Ave\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{u~vFrpnbMNb@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.6308591,
+                        "lng" : -73.9714554
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 mi",
+                        "value" : 1591
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 245
+                     },
+                     "end_location" : {
+                        "lat" : 40.6449418,
+                        "lng" : -73.97433219999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eOcean Pkwy\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ku~vFvqnbMgANkALkBRk@F}@JmBRcCVo@FwHz@mBTcBRiGp@oBRcBRmGr@iBRWDqALgGp@kBRiEd@_BP[D"
+                     },
+                     "start_location" : {
+                        "lat" : 40.6307788,
+                        "lng" : -73.9716439
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.8 mi",
+                        "value" : 2964
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 149
+                     },
+                     "end_location" : {
+                        "lat" : 40.6659098,
+                        "lng" : -73.9937527
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eNY-27\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eParts of this road may be closed at certain times or days\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "{mawFpbobM]DqEj@aFd@w@Hq@Ho@HU@UDa@Fa@DkARs@RYH]JGBSFQHE@GBKDg@RoAl@cAd@wB`AoCpAi@RoClAs@\\a@TYR_An@C@?@mAjAoAzACBi@t@_AbBeDnGABa@t@INaAtByBdEYh@eApBcApBu@vAkA|BEJCFy@|A]j@[`@]d@k@l@YZSPMLOLSLYTSLg@Z{CnBs@d@uBrAy@n@SRUPWXQPOPSXWZOTYb@OX[j@]l@]p@Yj@uCxFy@bB]n@]p@kAxB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.6449418,
+                        "lng" : -73.97433219999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1247
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 162
+                     },
+                     "end_location" : {
+                        "lat" : 40.6756071,
+                        "lng" : -74.00082689999999
+                     },
+                     "html_instructions" : "Take the exit on the \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eI-278 E\u003c/b\u003e toward \u003cb\u003eBklyn-Qns Expy\u003c/b\u003e/\u003cb\u003eQueens\u003c/b\u003e/\u003cb\u003eBronx\u003c/b\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "}pewF|{rbMk@vA{@|AGLEHGJGJGJIJIJGHIJIHKJKJMJMJKHMHKFSL]Pe@N_Bn@uDdByBlAoBfAcDbBsBfAu@v@EBIBEBKFQJkOtIuCzA"
+                     },
+                     "start_location" : {
+                        "lat" : 40.6659098,
+                        "lng" : -73.9937527
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 mi",
+                        "value" : 1767
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 222
+                     },
+                     "end_location" : {
+                        "lat" : 40.6903825,
+                        "lng" : -73.9986674
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e at the fork to stay on \u003cb\u003eI-278 E\u003c/b\u003e, follow signs for \u003cb\u003eBklyn Qns Expressway\u003c/b\u003e/\u003cb\u003eTriboro Bridge\u003c/b\u003e",
+                     "maneuver" : "fork-right",
+                     "polyline" : {
+                        "points" : "qmgwFdhtbM}@XMFSHQHQFQHQHOHWLYNSJULqAz@g@ZuBvAWRIDONQNA?[TkAdAIDKFOFKDKBMBM@M@M?MAKAMCICKCUGcA_@m@Q}B}@_A]GCiAk@GCmEcBy@Y}a@{Ou@W]MUIUEQE[CQCO?SAO@K?M@OB"
+                     },
+                     "start_location" : {
+                        "lat" : 40.6756071,
+                        "lng" : -74.00082689999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 451
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 114
+                     },
+                     "end_location" : {
+                        "lat" : 40.69023070000001,
+                        "lng" : -73.99436399999999
+                     },
+                     "html_instructions" : "Take exit \u003cb\u003e27\u003c/b\u003e to merge onto \u003cb\u003eAtlantic Ave\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "{ijwFtzsbM_@GGAW?QCIAIAGA[SGGEEAECEAECGG]DSBQFY@_@lAwGfBwJ"
+                     },
+                     "start_location" : {
+                        "lat" : 40.6903825,
+                        "lng" : -73.9986674
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 228
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 90
+                     },
+                     "end_location" : {
+                        "lat" : 40.692154,
+                        "lng" : -73.993438
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eClinton St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}hjwFv_sbMeC}@}B}@{B{@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.69023070000001,
+                        "lng" : -73.99436399999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 179
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 40.6916055,
+                        "lng" : -73.9914441
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eLivingston St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}tjwF~yrbMjBoK"
+                     },
+                     "start_location" : {
+                        "lat" : 40.692154,
+                        "lng" : -73.993438
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "207 ft",
+                        "value" : 63
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 40.6910763,
+                        "lng" : -73.9917049
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eCourt St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qqjwFnmrbMhBr@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.6916055,
+                        "lng" : -73.9914441
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "az~vF|jmbMzJiAR~DVrEvAdXaFd@wC^Nb@gANwD`@iBRyQnBkQnBsN`BoSxBkJhA{JbAoBTkARs@Rw@Ts@VkCjA{DfByDdBcEjB{@h@cAp@mAlAsA~Ai@t@_AbBgDrGa@t@kAdCsCnFkGxLaB|Cy@fAeAhAeAz@qFnDiDxBmAbAoAnAuAnBgBdDgGxLiBjDk@vA{@|AMVOVc@l@k@l@u@j@_@TcA`@_Bn@uDdBiFtCwGjD{@z@m@ZkOtIuCzAkA`@iAd@sAp@i@XyBvAgD`Co@d@uAjA[Ns@N[@YCy@SqBq@}D{AqAo@uEgBkf@{Qk@Om@IeACY@OB_@G_@A[EQCc@[MWKe@He@FY@_@tDoScG{B{B{@jBoKhBr@"
+         },
+         "summary" : "NY-27",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-74.0059,40.7100]
+            },
+            "type": "Feature",
+            "properties": {
+                "popupContent": "This is a B-Cycle Station. Come pick up a bike and pay by the hour. What a deal!",
+                "name": "Busch Field",
+                "show_on_map": true,
+                "amenity": "Baseball Stadium"
+            },
+            "id": 51
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0059,
+                    40.7150
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "popupContent": "This is a B-Cycle Station. Come pick up a bike and pay by the hour. What a deal!",
+                "name": "Busch Field",
+                "show_on_map": false,
+                "amenity": "Baseball Stadium"
+            },
+            "id": 52
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0059,
+                    40.7200
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "popupContent": "This is a B-Cycle Station. Come pick up a bike and pay by the hour. What a deal!",
+                "name": "Busch Field",
+                "show_on_map": true,
+                "amenity": "Baseball Stadium",
+                "style": {
+                    weight: 2,
+                    color: "#999",
+                    opacity: 1,
+                    fillColor: "#B0DE5C",
+                    fillOpacity: 0.8
+                }
+
+            },
+            "id": 74
+        }
+    ]
+};
